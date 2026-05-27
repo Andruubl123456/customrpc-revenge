@@ -1,0 +1,14 @@
+{
+  "name": "CustomRPC",
+  "description": "Muestra un Rich Presence personalizado en tu perfil de Discord",
+  "authors": [
+    {
+      "name": "TuNombre",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_controller"
+  }
+}
